@@ -1,0 +1,11 @@
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp2.0\SpeedLimit.deps.json
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp2.0\SpeedLimit.runtimeconfig.json
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp2.0\SpeedLimit.runtimeconfig.dev.json
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp2.0\SpeedLimit.dll
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\bin\Debug\netcoreapp2.0\SpeedLimit.pdb
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp2.0\SpeedLimit.csprojResolveAssemblyReference.cache
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp2.0\SpeedLimit.csproj.CoreCompileInputs.cache
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp2.0\SpeedLimit.AssemblyInfoInputs.cache
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp2.0\SpeedLimit.AssemblyInfo.cs
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp2.0\SpeedLimit.dll
+c:\users\windows\source\repos\SpeedLimit\SpeedLimit\obj\Debug\netcoreapp2.0\SpeedLimit.pdb
